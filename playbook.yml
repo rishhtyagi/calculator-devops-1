@@ -1,0 +1,9 @@
+---
+- name: Pull and Run docker image of nayan16/devopscalc
+  hosts: all
+  tasks:
+    - name: Pull nayan16/devopscalc
+      docker_image:
+        name: nayan16/devopscalc
+        source: pull
+  

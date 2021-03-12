@@ -1,4 +1,4 @@
-localhost ansible_user=p4
+localhost ansible_user=node
 
 
 
