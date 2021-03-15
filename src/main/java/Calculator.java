@@ -95,15 +95,17 @@ public class Calculator {
         double ans;
         try{
             ans = Math.sqrt(num);
+            logger.info("correct answer is: "+ans);
             return ans;
         }catch (Exception e){
             System.out.println(e);
+            logger.info("Error while calculating");
             return 0;
         }
     }
     public static double factorial(int num)
     {
-        if (num<1)
+        if (num<0)
         {
             System.out.println("illegal factorial operation");
             logger.info("illegal factorial operation");
@@ -113,6 +115,7 @@ public class Calculator {
         for(int i=2; i<=num; i++) {
             sum = sum * i;
         }
+        logger.info("correct answer is: "+sum);
         return sum;
     }
     public static double naturalLog(int num)
@@ -120,9 +123,11 @@ public class Calculator {
         double ans;
         try{
             ans = Math.log(num);
+            logger.info("correct answer is: "+ans);
             return ans;
         }catch (Exception e) {
             System.out.println(e);
+            logger.info("Error while calculating");
             return 0;
         }
     }
@@ -131,11 +136,12 @@ public class Calculator {
         double ans;
         try{
             ans = Math.pow(num, power);
+            logger.info("correct answer is: "+ans);
             return ans;
         }catch (Exception e) {
             System.out.println(e);
+            logger.info("Error while calculating");
             return 0;
         }
     }
 }
-

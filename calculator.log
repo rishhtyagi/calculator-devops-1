@@ -1,0 +1,27 @@
+2021-03-15 22:04:20.786 [main] INFO  Calculator - illegal factorial operation
+2021-03-15 22:04:20.790 [main] INFO  Calculator - illegal factorial operation
+2021-03-15 22:14:33.711 [main] INFO  Calculator - correct answer is: 5040
+2021-03-15 22:14:33.713 [main] INFO  Calculator - correct answer is: 1307674368000
+2021-03-15 22:14:33.714 [main] INFO  Calculator - illegal factorial operation
+2021-03-15 22:14:33.717 [main] INFO  Calculator - correct answer is: 6.907755278982137
+2021-03-15 22:14:33.717 [main] INFO  Calculator - correct answer is: 13.579592002661323
+2021-03-15 22:14:33.717 [main] INFO  Calculator - correct answer is: NaN
+2021-03-15 22:14:33.717 [main] INFO  Calculator - correct answer is: 243.0
+2021-03-15 22:14:33.717 [main] INFO  Calculator - correct answer is: 1296.0
+2021-03-15 22:14:33.718 [main] INFO  Calculator - correct answer is: NaN
+2021-03-15 22:14:33.718 [main] INFO  Calculator - correct answer is: 10.0
+2021-03-15 22:14:33.718 [main] INFO  Calculator - correct answer is: NaN
+2021-03-15 22:14:33.718 [main] INFO  Calculator - correct answer is: 6.708203932499369
+2021-03-15 22:14:33.718 [main] INFO  Calculator - correct answer is: 4.47213595499958
+2021-03-15 22:14:33.718 [main] INFO  Calculator - correct answer is: NaN
+2021-03-15 22:14:33.718 [main] INFO  Calculator - correct answer is: 3.872983346207417
+2021-03-15 22:14:33.719 [main] INFO  Calculator - correct answer is: 24
+2021-03-15 22:14:33.719 [main] INFO  Calculator - correct answer is: 362880
+2021-03-15 22:14:33.719 [main] INFO  Calculator - illegal factorial operation
+2021-03-15 22:14:33.719 [main] INFO  Calculator - correct answer is: 3628800
+2021-03-15 22:14:33.719 [main] INFO  Calculator - correct answer is: 11.345878653007889
+2021-03-15 22:14:33.719 [main] INFO  Calculator - correct answer is: 13.402501062398574
+2021-03-15 22:14:33.720 [main] INFO  Calculator - correct answer is: NaN
+2021-03-15 22:14:33.720 [main] INFO  Calculator - correct answer is: 15376.0
+2021-03-15 22:14:33.720 [main] INFO  Calculator - correct answer is: 2.019834266972649E119
+2021-03-15 22:14:33.721 [main] INFO  Calculator - correct answer is: -7.071779412459812E83
